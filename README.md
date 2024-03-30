@@ -27,7 +27,7 @@
 - Built movie recommendation systems utilizing K-Nearest Neighbors (KNN), Singular Value Decomposition (SVD), and the Apriori algorithms.
 - Achieved an efficient balance of speed and accuracy, with KNN displaying the quickest average runtime at under six seconds while maintaining consistent recommendation precision across all three models.
 
-**Exam Proctoring System Using Face Detection** |[Project_Link5](https://github.com/Su-Jung-Choi/exam_proctoring_system)
+**Exam Proctoring System Using Face Detection** | [Project_Link5](https://github.com/Su-Jung-Choi/exam_proctoring_system)
 -  Collected facial landmarks datasets consisting of 2,000 samples for each class, representing instances of a person looking right, front, and left.
 - Trained a Neural Network model on the collected dataset and achieved an outstanding classification accuracy rate of 99.67% on the testing dataset.
 - Implemented an exam proctoring system utilizing a face detection technique, which records the number of times a student looks left or right, along with the duration and timestamp of each gaze.
