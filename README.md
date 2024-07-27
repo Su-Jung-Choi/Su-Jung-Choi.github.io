@@ -9,8 +9,8 @@
 ## Projects
 **Marketing Campaign Data Analysis and Visualization** | [Project_Link1](https://github.com/Su-Jung-Choi/marketing_campaign)
 - Utilized MS Excel to clean and preprocess Maven marketing data for 2,240 customers, conducting in-depth analysis using PivotTables and charts to explore key metrics, including customer demographics and product preferences.
-- Analyzed marketing campaign effectiveness, revealing that the latest campaign achieved the highest conversion rate at 14.91% and identified a significant retention issue, with 70% of customers not making a purchase in over 30 days.
-- Delivered a comprehensive data analysis report using Tableau Story, presenting key findings and actionable recommendations such as targeted marketing for Gen X customers, enhancing in-store and online experiences, and strategies to improve customer retention and website engagement to boost sales and satisfaction.
+- Analyzed marketing campaign effectiveness, revealing the latest campaign's highest conversion rate at 14.91%, while identifying that 70% of customers had not made a purchase in over 30 days, highlighting a significant retention issue.
+- Delivered a comprehensive data analysis report using Tableau Story, presenting key findings and actionable recommendations such as targeted marketing for Gen X customers, enhancing in-store and online experiences, and improving customer retention and website engagement to boost sales and satisfaction.
 
 **Research Paper Classification: A Neural Network Approach with Feature Selection and TF-IDF** | [Project_Link2](https://github.com/Su-Jung-Choi/text_classification)
 - Preprocessed an initial dataset of 20,972 papers to address class imbalance, resulting in a balanced dataset of 6,544 papers with titles and abstracts across four subject fields.
