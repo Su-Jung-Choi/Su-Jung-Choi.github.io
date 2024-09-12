@@ -1,4 +1,4 @@
-# Data Science & Analytics
+# Data Scientist
 
 ### Technical Skills: Python, SQL, C++, R, Scala, Azure Databricks, Apache Spark, Tableau, Power BI, Excel
 
