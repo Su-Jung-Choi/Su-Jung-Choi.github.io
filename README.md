@@ -45,7 +45,7 @@
 
 ![Movie Review logo](https://github.com/user-attachments/assets/4e3c288d-bff4-4a3b-bbc9-2746ad01e935)
 
-📌  **Movie Recommender Systems** | [Project_Link6](https://github.com/Su-Jung-Choi/movie_recommendation)
+📌  **Movie Recommender Systems** | [Project_Link6](https://github.com/Su-Jung-Choi/movie_recommendation/blob/main/movie_recommendations_project.ipynb)
 - Leveraged data preprocessing techniques on the GroupLens dataset, containing 100,836 user ratings across 9,742 movies.
 - Built movie recommendation systems utilizing K-Nearest Neighbors (KNN), Singular Value Decomposition (SVD), and the Apriori algorithms.
 - Achieved an efficient balance of speed and accuracy, with KNN displaying the quickest average runtime at under six seconds while maintaining consistent recommendation precision across all three models.
