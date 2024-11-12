@@ -2,6 +2,8 @@
 
 ### Technical Skills: Python, SQL, C++, R, Scala, Azure Databricks, Apache Spark, Tableau, Power BI, Excel
 
+## Experience
+- Data Scientist, Digital Monitoring Products, Inc. (November 2024 - Present)
 ## Education
 - Master of Science in Computer Science, Graduate Certificate in Data Science | Missouri State University (May 2024)
 - Bachelor of Science in Political Science, Minor in English | Missouri State University (December 2021)
