@@ -4,6 +4,7 @@
 
 ## Experience
 - Data Scientist, Digital Monitoring Products, Inc. (November 2024 - Present)
+- Research Assistant, Missouri State University (August 2024 - Present)
 
 ## Education
 - Master of Science in Computer Science, Graduate Certificate in Data Science | Missouri State University (May 2024)
