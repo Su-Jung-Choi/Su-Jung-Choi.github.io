@@ -1,14 +1,21 @@
 # Data Scientist
 
-### Technical Skills: Python, SQL, C++, R, Scala, Azure Databricks, Apache Spark, Tableau, Power BI, Excel
+### Technical Skills: Python, SQL, R, C++, Scala, Azure Databricks, Apache Spark, Tableau, Power BI, Excel
 
 ## Experience
 - Data Scientist, Digital Monitoring Products, Inc. (November 2024 - Present)
-- Research Assistant, Missouri State University (August 2024 - Present)
+- Research Assistant, Missouri State University (August 2024 - July 2025)
 
 ## Education
 - Master of Science in Computer Science, Graduate Certificate in Data Science | Missouri State University (May 2024)
 - Bachelor of Science in Political Science, Minor in English | Missouri State University (December 2021)
+
+## Publication
+- S. Choi and R. Dubey, **"Clustering-Guided Counterfactual Design Evolution,"** 2025 IEEE Conference on Artificial Intelligence (CAI), Santa Clara, CA, USA, 2025, pp. 271-277, doi: [10.1109/CAI64502.2025.00049](https://ieeexplore.ieee.org/document/11050487). 
+- R. Chittimalla, S. Choi, M. S. V. Reka and Y. Belkhouche, **"Characterizing students behavior in multi-user multi-computer testing environments,"** 2024 International Symposium on Multimedia (ISM), Tokyo, Japan, 2024, pp. 250-254, doi: [10.1109/ISM63611.2024.00057](https://ieeexplore.ieee.org/document/10935984). 
+
+
+
 
 ## Projects
 
