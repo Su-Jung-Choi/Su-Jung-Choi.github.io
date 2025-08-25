@@ -3,8 +3,12 @@
 ### Technical Skills: Python, SQL, R, C++, Scala, Azure Databricks, Apache Spark, Tableau, Power BI, Excel
 
 ## Experience
-- Data Scientist, Digital Monitoring Products, Inc. (November 2024 - Present)
-- Research Assistant, Missouri State University (August 2024 - July 2025)
+**Data Scientist** | Digital Monitoring Products, Inc. (November 2024 - Present)
+
+**Research Assistant** | Missouri State University (August 2024 - July 2025)
+- Developed a clustering-guided counterfactual generation (CCF) approach to improve the feasibility and actionability of counterfactual explanations (CFs) in high-dimensional problems, demonstrated on automotive chassis design optimization. Validated through crash simulation, CCF significantly outperformed baseline methods, producing more realistic and statistically robust CFs with potential for broader applicability.
+- Conducted extensive experiments to extend CCF into a multi-objective optimization framework, evaluating generalizability across multiple datasets and exploring alternative clustering methods to refine the counterfactual search space.
+- Designed and implemented an LLM-powered chatbot application that enables users to perform machine learning and explainable AI (XAI) tasks through natural language interaction. Integrated dataset exploration, model training, prediction, and model interpretability methods (SHAP, LIME, DiCE) into a user-friendly interface, making advanced AI/ML capabilities accessible without coding expertise.
 
 ## Education
 - Master of Science in Computer Science, Graduate Certificate in Data Science | Missouri State University (May 2024)
